@@ -5,7 +5,7 @@ Shaadi.com assignment for automation test.
 
 Please make sure to have:
 1. Java, eclipse, Selenium web-driver installed.
-2. Chrome driver has to be in "Driver" folder parallel to src folder.
+2. Chrome driver has to be in parallel to src folder.
 
 ## Running the tests
 
